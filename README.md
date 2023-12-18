@@ -1,4 +1,4 @@
-** Exam Fraud Detection Project **
+**Exam Fraud Detection Project**
 
 This project is entirely implemented using Google Colab and aims to tackle fraudulent activities during exams in examination halls. Employing machine learning algorithms, specifically the 
 Haarcascade algorithm for face detection and Optical Character Recognition (OCR) for extracting student names and photos from exam materials, the system conducts a meticulous verification 
